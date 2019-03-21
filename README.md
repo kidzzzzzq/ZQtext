@@ -1,0 +1,2 @@
+# ZQtext
+learn
